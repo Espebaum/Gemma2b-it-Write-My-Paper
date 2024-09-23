@@ -9,4 +9,4 @@ https://espebaum.github.io/ml/Gemma2FineTuning
 
 https://huggingface.co/gyopark/gemma-2-2b-it-WriteMyPaper
 
-<img src="/home/gyopark/gemma/images/aihub_dataset.webp">
+<img src="images/Gemma.webp">
