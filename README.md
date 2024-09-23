@@ -8,3 +8,5 @@ https://espebaum.github.io/ml/Gemma2FineTuning
 파인 튜닝한 모델의 Hugging Face Repository는 아래의 링크.
 
 https://huggingface.co/gyopark/gemma-2-2b-it-WriteMyPaper
+
+<img src="/home/gyopark/gemma/images/aihub_dataset.webp">
